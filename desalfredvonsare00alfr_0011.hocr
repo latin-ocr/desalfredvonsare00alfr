@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desalfredvonsare00alfr_0011.png"; bbox 0 0 1961 3507; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 1269 1159 1340">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 1269 1159 1340">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 1269 1159 1340; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 357 1269 868 1339; x_wconf 78' lang='lat' dir='ltr'>EMINENTISSIMO</span> <span class='ocrx_word' id='word_1_2' title='bbox 900 1294 1159 1340; x_wconf 81' lang='lat' dir='ltr'>DOMINO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 264 1405 1262 1484">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 264 1405 1262 1484">
+     <span class='ocr_line' id='line_1_2' title="bbox 264 1405 1262 1484; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 264 1405 858 1484; x_wconf 73' lang='lat' dir='ltr'>FRANCISCO</span> <span class='ocrx_word' id='word_1_4' title='bbox 910 1407 1262 1483; x_wconf 74' lang='lat' dir='ltr'>EHRLE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 469 1547 1046 1595">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 469 1547 1046 1595">
+     <span class='ocr_line' id='line_1_3' title="bbox 469 1547 1046 1595; baseline 0.002 -3"><span class='ocrx_word' id='word_1_5' title='bbox 469 1547 514 1594; x_wconf 87' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_6' title='bbox 541 1547 594 1594; x_wconf 88' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_7' title='bbox 622 1547 671 1595; x_wconf 81' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_8' title='bbox 700 1547 1046 1594; x_wconf 75' lang='lat' dir='ltr'><strong>CARDINALI</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
